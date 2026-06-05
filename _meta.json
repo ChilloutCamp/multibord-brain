@@ -1,0 +1,19 @@
+{
+  "tenant_slug": "multibord",
+  "tenant_name": "Multibord",
+  "system_version": "v3.5-md-first",
+  "files": [
+    {"order": 1, "filename": "1-PROFIL-OG-MERKEVARE.md", "ui_section": "Profil og merkevare"},
+    {"order": 2, "filename": "2-BEDRIFT.md", "ui_section": "Bedriftens kunnskap"},
+    {"order": 3, "filename": "3-STEMME-OG-MALGRUPPER.md", "ui_section": "Stemme og målgrupper"},
+    {"order": 4, "filename": "4-FAQ.md", "ui_section": "FAQ"},
+    {"order": 5, "filename": "5-MARKEDSANALYSE.md", "ui_section": "Markedsanalyse"},
+    {"order": 6, "filename": "6-SEO.md", "ui_section": "Søkeord og SEO"},
+    {"order": 7, "filename": "7-PRODUKTER.md", "ui_section": "Produkter"},
+    {"order": 8, "filename": "8-TJENESTER.md", "ui_section": "Tjenester"},
+    {"order": 9, "filename": "9-ASSETS.md", "ui_section": "Assets (bilder)"},
+    {"order": 10, "filename": "10-LEGAL.md", "ui_section": "Legal"},
+    {"order": 11, "filename": "11-BUSINESS-PLAN.md", "ui_section": "Business Plan"},
+    {"order": 12, "filename": "12-MARKEDSFØRINGSPLAN.md", "ui_section": "Markedsføringsplan"}
+  ]
+}
