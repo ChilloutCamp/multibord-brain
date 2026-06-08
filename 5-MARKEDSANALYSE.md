@@ -2,41 +2,29 @@
 type: bedrift-data
 section: markedsanalyse
 tenant_slug: multibord
-syncs_to_brain: market, competitors, personas, positioning
 last_updated: 2026-06-03
-fill_order: 4
-ui_section: "Markedsanalyse"
-sources:
-  - Analysemarketing-skills.md (audit 2026-03-18)
-  - ALTACOM-AI-KUNNSKAPSBASE.md (kategori-info)
-  - 1-PROFIL-OG-MERKEVARE.md (posisjonering)
-  - 2-BEDRIFT.md (hva vi selger)
 ---
 
 # Markedsanalyse — Multibord
 
-> **Selvstendig om:** Konkurrenter, marked, personas, hvit-rom. Brukes som grunnlag for SEO, produktstrategi, og markedsføringskanaler.
+## 1. Markedsstørrelse og kategori
 
----
-
-## 1. Markedsstørrelse + kategori
-
-### kategori
+### Kategori
 **Transformerbare sofa-/spisebord** (kategori-spesialist-segment innen møbel-handel)
 
-### total_addressable_market (TAM)
+### Totalt marked (TAM)
 - Norske husholdninger 2026: ~2,5M
 - Oslo + Akershus storbyregion: ~700K husholdninger
 - **Sentrum-leiligheter under 70 m² (kjernemålgruppe):** ~120K i Oslo
 - Premium-møbel-segment (>10k bord-kjøp per gang): estimert 15-20% = ~20K husholdninger
 
-### realistic_addressable år_1
+### Realistisk marked år 1
 - 2-3% awareness × 1% konvertering = **200-600 potensielle kunder/år**
 - Mål 50 bord = 8-25% andel av realistisk marked (oppnåelig)
 
-### sekundærmarkeder
+### Sekundærmarkeder
 - **Hytter:** Norge har ~440K hytter. 50% er sekundærhjem for Oslo-eiere. Plass-utfordring lik leilighet.
-- **B2B Airbnb:** ~7000 registrerte Airbnb-utleiere i Oslo. ~500 har premium-Airbnb (>1500kr/natt) — vår B2B-målgruppe.
+- **B2B Airbnb:** ~7000 registrerte Airbnb-utleiere i Oslo. ~500 har premium-Airbnb (>1500 kr/natt) — vår B2B-målgruppe.
 - **Hoteller / B&B:** små boutique-hoteller med kompakte rom.
 
 ---
@@ -49,8 +37,6 @@ sources:
 - **Pris:** Høy ($3000-8000+ USD)
 - **Styrker:** Etablert brand internasjonalt, bred sortiment, godt produkt-storytelling
 - **Svakheter:** Ikke norsk lager, lang levering, statisk presentasjon (ikke video)
-- **Hva vi stjeler:** Rikt produkt-storytelling, "rooms" before/after-konsept
-- **Hva vi gjør motsatt:** Video-transformasjon (de har statisk), lokal norsk showroom
 
 ### Expand Furniture (Canada/USA)
 - **URL:** expandfurniture.com
@@ -58,13 +44,11 @@ sources:
 - **Pris:** Mid-high
 - **Styrker:** God SEO-content (blogg, guides), video-demoer
 - **Svakheter:** Ikke norsk, ikke italiensk DNA
-- **Hva vi stjeler:** Video-content-strategi for transformasjonen
 
 ### Calligaris (Italia)
 - **Posisjonering:** Italiensk premium med transformerbare bord også
 - **Pris:** Premium til ultra-premium
 - **Konkurrent i samme segment internasjonalt**
-- **Vi vs Calligaris:** Vi har lokal norsk showroom + spesialisering (de selger bredere)
 
 ---
 
@@ -72,21 +56,18 @@ sources:
 
 ### BoConcept
 - **Posisjonering:** Premium dansk design
-- **Har "transformerende" produkter,** men ikke transformerbare bord som kjernekategori
+- Har "transformerende" produkter, men ikke transformerbare bord som kjernekategori
 - **Styrker:** Stor brand-bevissthet, mange butikker i Norge
-- **Åpning for oss:** De konkurrerer ikke direkte på transformerbare bord — vi er kategori-spesialist
 
 ### Bolia
 - **Posisjonering:** Premium dansk-norsk
-- **Lignende kundebase som oss**
-- **Har modulære møbler, ikke transformerbare bord**
-- **Åpning for oss:** Lignende stil/segment uten direkte konkurranse på vår kategori
+- Lignende kundebase som oss
+- Har modulære møbler, ikke transformerbare bord
 
 ### IKEA
-- **Lav-pris-segment**
-- **Har Norden-serien med plassbesparende, men ikke gassløft/transformasjon**
-- **Ikke samme målgruppe** (vi er premium, ikke billig)
-- **Strategisk rolle:** Vi kan reframe oss som "premium alternativ til IKEA-billighet"
+- Lav-pris-segment
+- Har Norden-serien med plassbesparende, men ikke gassløft/transformasjon
+- Ikke samme målgruppe (vi er premium, ikke billig)
 
 ---
 
@@ -105,22 +86,16 @@ sources:
 
 ## 5. Posisjonering
 
-### hvor_vi_er
+### Hvor vi er
 - **Premium-segment** (10 000 - 50 300 kr per bord)
 - **Spesialist** på transformerbare bord (ikke generelt møbel)
 - **Italiensk DNA + norsk service** (kombinasjonen er distinkt)
-- **Showroom-modell** — kunden kan teste FØR kjøp
+- **Showroom-modell** — kunden kan teste før kjøp
 - **Sub-brand** under Compact Living AS
 
-### åpning_white_space
-- Få aktører markedsfører "transformerbare bord" som egen kategori
-- SEO-keywords "salongbord som blir spisebord" har lite konkurranse på norsk
-- Få konkurrenter har AI-chat for produkt-spørsmål
-- Premium uten å være elitistisk (vår voice er minimalistisk skandinavisk)
-
-### differensieringsakser
+### Differensieringsakser
 1. **Kategori-spesialisering** (kun transformerbare bord) vs generelle møbelbutikker
-2. **Showroom-test FØR kjøp** vs nett-only
+2. **Showroom-test før kjøp** vs nett-only
 3. **Trinnløs gassløft** + 11 modeller vs faste høyder
 4. **AI-chat med produktkunnskap** vs generell support
 5. **Norsk service + italiensk DNA** kombinasjon
@@ -168,75 +143,41 @@ Vi sitter i hele premium-segmentet med Ciak-kampanje som strekker ned i mid-tier
 
 ---
 
-## 8. Trender + signaler (2026)
+## 8. Trender og signaler (2026)
 
 - **Urbanisering** — flere bor i mindre leiligheter i sentrum
 - **Premium-bevissthet** — folk vil ha kvalitet over kvantitet
 - **Design-fokus** — Instagram + Pinterest driver møbel-research
 - **Showroom-renessanse** — etter COVID kommer folk tilbake til fysiske butikker for å teste
 - **AI-shoppingassistenter** — kunder venter AI-chat ved siden av tradisjonell support
-- **AI-Overviews / Perplexity** — folk søker via AI som siterer kilder; merker som er strukturerte vinner
+- **AI-søk (Perplexity, AI Overviews)** — folk søker via AI som siterer kilder; merker som er strukturerte vinner
 
 ---
 
-## 9. Konkurrent-SVAK-punkter Multibord kan utnytte
+## 9. Sosialt bevis — status og tiltak
 
-### Resource Furniture
-- Ingen norsk lager → vi vinner på leveringstid
-- Statisk hero → vi vinner på video-transformasjon
-- Ingen lokal test → vi vinner på Oslo-showroom
+### Nåværende status
+- 4.8 stjerner Google-rating med 44 anmeldelser (vises på multibord.no)
+- Ingen faktiske kundesitater synlige på siden ennå
 
-### BoConcept/Bolia
-- Generell sortiment → vi vinner som spesialist
-- Lite content om transformerbare bord → vi vinner på SEO
+### Kritisk mangel
+Sitater fra ekte kunder med navn + bydel mangler.
 
-### IKEA
-- Ingen premium-segment → vi vinner på kvalitet
-- Ingen gassløft → vi vinner på mekanisme
-
-### Calligaris/Cassina (italienske)
-- Ingen lokal tilstedeværelse → vi vinner på norsk service + showroom
-
----
-
-## 10. Sosialt bevis-strategi (basert på marketing-audit mars 2026)
-
-### nåværende_status
-- 4.8★ Google-rating med 44 anmeldelser (vises på multibord.no)
-- INGEN faktiske kundesitater synlige på siden ennå
-
-### kritisk_mangel
-Sitater fra ekte kunder med navn + bydel mangler. Marketing-auditen flagget dette som den største svakheten.
-
-### tiltak (input til 10-BUSINESS-PLAN + 11-MARKEDSFØRINGSPLAN)
+### Tiltak
 - Samle 3-5 ekte kundesitater
-- Vise med navn og bydel ("Maria & Thomas, Grünerløkka")
+- Vise med navn og bydel ("Maria og Thomas, Grünerløkka")
 - "Over X bord levert i Norge" som tillit-signal
-- Instagram UGC (kundebilder)
+- Instagram-bilder fra ekte kunder
 
 ---
 
-## 11. SEO-konkurranse (input til 5-SEO)
+## 10. SEO-konkurranse — verifiserte søkeord
 
-> Detaljer i `5-SEO.md`.
-
-**Verifiserte keywords med lav konkurranse i Norge:**
+**Søkeord med lav konkurranse i Norge:**
 - "salongbord som blir spisebord" — lav konkurranse, vi kan eie
 - "heve-senk salongbord" — lav konkurranse
 - "transformerbare bord" — middels
 - "spisebord liten leilighet" — middels-høy
 - "altacom norge" — brandet, lav
 
----
-
-## TODO
-
-- Apify Google Places-skan for "møbelbutikk Oslo Bygdøy" — verifisere lokal-konkurrenter
-- Crawl 3-5 konkurrent-nettsider grundig (Resource Furniture, Calligaris, Cassina, BoConcept, Bolia) for detaljert posisjonering
-- Sjekke om nye norske aktører dukker opp i 2026 Q3/Q4
-
----
-
-## NOTES
-
-Bygger på marketing-audit fra mars 2026 (`Analysemarketing-skills.md`) + kategori-research + multibord.no live-data. Konkurrent-research er kvalifisert estimat — full Apify-skan kommer ved neste research-runde. Kategori-spesialist-vinklingen er bekreftet som åpning: ingen norsk konkurrent eier "transformerbare bord" som dedikert kategori.
+Full SEO-strategi i `6-SEO.md`.

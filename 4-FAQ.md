@@ -2,17 +2,10 @@
 type: bedrift-data
 section: faq
 tenant_slug: multibord
-syncs_to_brain: faq, customer_questions
 last_updated: 2026-06-03
-fill_order: 3
-ui_section: "FAQ"
 ---
 
 # FAQ — Multibord
-
-> **Selvstendig om:** Alle vanlige kundespørsmål med klare svar. Brukes til chatbot, FAQ-side på nettsiden, og JSON-LD FAQPage schema for SEO.
-
----
 
 ## 1. Om produktet (generelt)
 
@@ -59,8 +52,6 @@ Sjekk målene i produktbeskrivelsen — lukket mål er fotavtrykket som sofabord
 ### Hva er forskjellen på modellene?
 Alle har trinnløs gassløft. Forskjellen ligger i: form (rund vs rektangulær), størrelse (kompakt vs stor), uttrekks-mekanikk (bokfold vs ileggsplater), pris-segment, og minste/største høyde.
 
-> Full sammenligning i `6-PRODUKTER.md` eller `6-produkter/per-produkt/`-mappa.
-
 ---
 
 ## 3. Materialvalg og finish
@@ -88,8 +79,6 @@ Du velger fra standardsortimentet (6 bordplate-finisher og 7 understell-farger).
 
 ### Hva koster bordene?
 Fra 10 000 kr (Ciak kampanje) til 50 300 kr (Helios premium ceramica). Pris avhenger av modell, finish og base-farge.
-
-> Full prisliste i `6-produkter/14-priser-komplett.md`.
 
 ### Inkluderer prisene mva?
 Ja — alle priser på multibord.no er i NOK **inkludert mva** (25% mva tilkommer).
@@ -145,8 +134,6 @@ Compact Living Store, Bygdøy Allé 69E, 0265 Oslo.
 
 ## 7. Garanti og retur
 
-> Detaljer i `9-LEGAL.md`.
-
 ### Har bordene garanti?
 Ja — **2 års garanti** som dekker produksjonsfeil og mekanismedefekter. Gjelder fra leveringsdato.
 
@@ -179,29 +166,5 @@ Nei. Alle Altacom-bord er fabrikkmontert i Italia med materialer designet for da
 ### Hvem står bak Multibord?
 Compact Living AS (org.nr 921 887 922) — norsk forhandler for Altacom Italia. Sub-brand under Compact Living-hovedmerket, fokusert kun på transformerbare bord.
 
-### Hvor lenge har dere drevet?
-{{Verifiser founded_year fra Brønnøysund}}
-
 ### Er dere offisiell forhandler av Altacom?
 Ja — vi er offisiell norsk forhandler for Altacom Italia. Alle bord kjøpes direkte fra fabrikken i Italia.
-
----
-
-## JSON-LD FAQPage schema
-
-Alle disse spørsmål-svar genereres automatisk som JSON-LD `FAQPage` schema på nettsiden for bedre Google-synlighet og AI-sitering.
-
-> Schema-implementering i `5-SEO.md` § 5.
-
----
-
-## TODO
-
-- Hente faktiske kundespørsmål fra Compact Living-team (showroom-besøk-historie + e-post-arkiv) for å oppdatere FAQ med ekte common-questions
-- Verifisere founded_year for Compact Living AS via Brønnøysund
-
----
-
-## NOTES
-
-Bygger på `2-bedrift/02-faq.md` + ALTACOM-AI-KUNNSKAPSBASE-data + multibord.no live. FAQ er konsolidert og prioritert etter sannsynlig søkevolum. Brukes både til chatbot-svar (sannhetskilde for AI) og FAQ-side på siden (JSON-LD for SEO/AI-sitering).

@@ -2,20 +2,12 @@
 type: bedrift-data
 section: tjenester
 tenant_slug: multibord
-syncs_to_brain: services, customer_experience
 last_updated: 2026-06-03
-fill_order: 7
-ui_section: "Tjenester"
-sources:
-  - 2-BEDRIFT.md (team + drift)
-  - 6-PRODUKTER.md (bestilling-flow + levering)
-  - 6-produkter/15-bestilling-og-levering.md
-  - 9-LEGAL.md (garanti-policies)
 ---
 
 # Tjenester — Multibord
 
-> **Selvstendig om:** Hva vi tilbyr UTOVER produktene. Rådgivning, montert levering, tilbudsprosess, materialvalg-veiledning, ettersalg.
+Hva vi tilbyr utover produktene: rådgivning, montert levering, tilbudsprosess, materialvalg-veiledning og ettersalg.
 
 ---
 
@@ -23,11 +15,11 @@ sources:
 
 Multibord er primært et produkt-selskap, men vi har **5 distinkte tjenester** som omgir produktene:
 
-1. **Personlig showroom-rådgivning**
-2. **Skreddersydd tilbudsprosess**
-3. **Materialvalg-veiledning**
-4. **Montert levering (door-to-door)**
-5. **Ettersalg og garanti-håndtering**
+1. Personlig showroom-rådgivning
+2. Skreddersydd tilbudsprosess
+3. Materialvalg-veiledning
+4. Montert levering (door-to-door)
+5. Ettersalg og garanti-håndtering
 
 Disse tjenestene er hovedgrunnen til at folk velger Multibord fremfor nettbutikk-only-konkurrenter.
 
@@ -35,25 +27,20 @@ Disse tjenestene er hovedgrunnen til at folk velger Multibord fremfor nettbutikk
 
 ## 2. Personlig showroom-rådgivning
 
-### hva
+### Hva
 1-på-1 visning med en av våre produktrådgivere. Du tester alle 11 modeller fysisk, sammenligner mekanikker (bokfold vs ileggsplater), og får hjelp til å matche modell mot ditt rom og behov.
 
-### hvor
+### Hvor
 Compact Living Store, Bygdøy Allé 69E, 0265 Oslo
 
-### når
+### Når
 - **Drop-in:** Man-Fre 11-17, Lør 11-16
 - **Booket privat visning:** Tilgjengelig på forespørsel (lengre rådgivning, ofte med begge partnere)
 
-### kost
+### Kost
 **Gratis. Uforpliktende.**
 
-### hva_skiller_oss
-- Konkurrenter har ikke 11 modeller på samme sted
-- Online-only-konkurrenter (Resource Furniture, Expand Furniture) har ingen fysisk test-mulighet i Norge
-- Generelle møbelbutikker (BoConcept, Bolia) har ikke spesialiserte produktrådgivere på kategori-spesifikk mekanikk
-
-### bestilling
+### Bestilling
 - Telefon: +47 46 26 04 62
 - E-post: kontakt@multibord.no
 - Skjema på multibord.no
@@ -63,7 +50,7 @@ Compact Living Store, Bygdøy Allé 69E, 0265 Oslo
 
 ## 3. Skreddersydd tilbudsprosess
 
-### hva
+### Hva
 For hver bestilling lager vi et komplett tilbud i NOK inkl. mva med:
 - Valgt modell
 - Bordplate-finish + base-farge
@@ -71,17 +58,17 @@ For hver bestilling lager vi et komplett tilbud i NOK inkl. mva med:
 - Forventet leveringstid
 - Betalingsbetingelser
 
-### hvorfor_skreddersydd
+### Hvorfor skreddersydd
 Multibord-modellene har mange finish-permutasjoner (5 finish-typer × 6 melamin-farger × 7 base-farger × 11 modeller). Prisene varierer 14-50K. Et generelt tilbud ville være misvisende — derfor lager vi konkrete tilbud per bestilling.
 
-### prosess
+### Prosess
 1. Du velger modell + finish (i showroom eller på nettsiden)
 2. Vi sender komplett tilbud per e-post innen 1-2 virkedager
 3. Du bekrefter
 4. Bestillings-faktura sendes (forskudd 50%)
 5. Produksjon i Italia begynner
 
-### sla
+### SLA
 - Tilbud sendt innen 1-2 virkedager etter forespørsel
 - Spørsmål besvart innen samme virkedag
 
@@ -89,71 +76,66 @@ Multibord-modellene har mange finish-permutasjoner (5 finish-typer × 6 melamin-
 
 ## 4. Materialvalg-veiledning
 
-### hva
+### Hva
 Hjelp til å velge riktig finish-kombinasjon basert på:
 - Rommets stil og lys
 - Bruksmønster (daglig spising vs sporadisk)
 - Kombinasjon med eksisterende møbler
 - Budsjett
 
-### hva_inkluderer
+### Hva inkluderer
 - Fysisk materialprøver i showroom (alle 24+ finish-alternativer)
 - Sammenligning av holdbarhet (melamin vs glass vs ceramica vs malta)
 - Anbefaling basert på dine kriterier
-- Visualisering: bordet "i ditt rom" via produktbilder + tipps
+- Visualisering: bordet "i ditt rom" via produktbilder + tips
 
-### hvor
+### Hvor
 Showroom (primært) eller via e-post/telefon med bildereferanser
 
-### kost
+### Kost
 **Gratis** som del av kjøpsbeslutningen
-
-### hvorfor_viktig
-Marketing-audit (mars 2026) flagget materialvalg som vanlig friksjon — folk er usikre på forskjellen mellom "melamin" og "ceramica" når de bestemmer 20-30K-utgift. Veiledning reduserer kjøpsangst.
 
 ---
 
 ## 5. Montert levering (door-to-door)
 
-### hva
-Bordet leveres FERDIG MONTERT fra fabrikken i Italia til din adresse i Norge. Du trenger bare å pakke ut og plassere.
+### Hva
+Bordet leveres ferdig montert fra fabrikken i Italia til din adresse i Norge. Du trenger bare å pakke ut og plassere.
 
-### prosess
+### Prosess
 1. Bestilling går til Altacom Italia
 2. Produksjon: 4-8 uker
 3. Frakt Italia → Norge: 1-2 uker
 4. Levering til adresse: avtales i forveien
 5. **Total leveringstid: 6-10 uker fra bestilling**
 
-### kostnader
+### Kostnader
 - **Oslo:** Gratis frakt
 - **Resten av Norge:** Fra 990 kr (avhenger av modell og adresse — bekreftes i tilbud)
 - **Henting i showroom (Oslo):** Gratis
 
-### levering_av_store_modeller
+### Levering av store modeller
 For store modeller (Ulisse, Ares Fold, Helios) sender vi vanligvis 2-personers leveringsteam. Inkludert i fraktprisen.
 
-### hva_skjer_hvis_skade
+### Hva skjer hvis skade
 Hvis bordet er skadet ved levering: kontakt oss innen 24 timer. Vi tar hele kostnaden for retur + ny levering.
 
 ---
 
 ## 6. Ettersalg og garanti-håndtering
 
-> Detaljer om garanti-policy i `9-LEGAL.md`.
-
-### hva
+### Hva
 - **2 års garanti** på alle bord (mekanisme + materialer)
 - **Reklamasjon-håndtering:** vi kontakter Altacom Italia på dine vegne
 - **Reparasjon eller utskifting:** koordinerer direkte fra Italia
 - **Rådgivning:** spørsmål om vedlikehold (selv etter garanti utløpt)
 
-### kontakt_for_ettersalg
+### Kontakt for ettersalg
 - E-post: kontakt@multibord.no
 - Telefon: +47 46 26 04 62
 - Vi svarer innen samme virkedag
 
-### prosess_ved_reklamasjon
+### Prosess ved reklamasjon
 1. Kunde kontakter oss
 2. Vi vurderer (foto eller besøk hvis relevant)
 3. Hvis dekket av garanti: koordinerer reparasjon/utskifting med Altacom
@@ -164,34 +146,34 @@ Hvis bordet er skadet ved levering: kontakt oss innen 24 timer. Vi tar hele kost
 
 ## 7. B2B-tjenester (Airbnb-hosts, hoteller, eiendomsutviklere)
 
-> Volume-segment som vokser. Egne tjenester for ordrer 2+ bord.
+Volum-segment som vokser. Egne tjenester for ordrer 2+ bord.
 
-### tilbud
-- **Volume-rabatt** (forhandles per ordre, typisk 3-8%)
+### Tilbud
+- **Volum-rabatt** (forhandles per ordre, typisk 3-8%)
 - **Konsolidert levering** (alle bord til samme adresse, samme dag)
 - **Bedrifts-faktura** (lengre betalingsfrist mulig)
 - **Prioritert leveringsplanlegging**
 
-### målgruppe
+### Målgruppe
 - Airbnb-hosts med 2+ premium-enheter
 - Boutique-hoteller
 - Eiendomsutviklere med "møbel-pakke"-konsept
 - Hytteutleier-portefølje
 
-### kontakt
+### Kontakt
 B2B-henvendelser: kontakt@multibord.no med "B2B" i emnefeltet
 
 ---
 
-## 8. Tjenester vi IKKE tilbyr (eksplisitt)
+## 8. Tjenester vi IKKE tilbyr
 
 For å sette tydelige grenser:
 
-- **Montering på din side:** Bordene leveres ferdig montert. Vi gjør IKKE on-site installasjon (ingen behov).
-- **Reparasjon utenom garanti:** Vi koordinerer med Altacom, men gjør IKKE egen reparasjon på verksted i Norge.
+- **Montering på din side:** Bordene leveres ferdig montert. Vi gjør ikke on-site installasjon (ingen behov).
+- **Reparasjon utenom garanti:** Vi koordinerer med Altacom, men gjør ikke egen reparasjon på verksted i Norge.
 - **Spesialdesign / custom-modeller:** Vi tilbyr Altacoms standardsortiment. Custom-design må diskuteres med Altacom direkte.
 - **Møbel-pakke-rådgivning utover bord:** Vi er spesialist på transformerbare bord, ikke generelt interiør. For helhets-rådgivning henvises til Compact Living-hovedmerket.
-- **Finansiering / delbetaling:** Diskuteres ikke i dag. Marketing-audit anbefalte Klarna-vurdering — er ennå ikke implementert.
+- **Finansiering / delbetaling:** Tilbys ikke i dag.
 
 ---
 
@@ -204,33 +186,3 @@ For å sette tydelige grenser:
 | Telefon i åpningstidene | Direkte svar (Man-Fre 11-17, Lør 11-16) |
 | Reklamasjon-respons | Samme virkedag |
 | Leveringstid produkt | 6-10 uker fra bestilling |
-
----
-
-## 10. Lead-flyt (hvordan vi henter inn folk)
-
-> Detaljer om markedsføring i `11-MARKEDSFØRINGSPLAN.md`.
-
-### naturlig_flyt
-1. **Funn:** SEO (Google) → multibord.no
-2. **Vurdering:** Produkt-sider + FAQ + sammenligning
-3. **Lead-fangst:** Showroom-booking ELLER tilbudsforespørsel ELLER chat
-4. **Tilbud:** Vi sender skreddersydd tilbud
-5. **Visning (valgfri):** Showroom-besøk for å bekrefte valg
-6. **Bestilling:** Forskudd-betaling
-7. **Levering:** 6-10 uker
-8. **Ettersalg:** Anmeldelse-flyt + nyhetsbrev for sesong-tilbud
-
----
-
-## TODO
-
-- Vurdere finansiering/Klarna for å senke terskel (flagget i marketing-audit)
-- Lage konkret B2B-prisliste (volume-rabatter formelt)
-- Vurdere "Book privat visning"-flyt med 1-2 timer dedikert rådgiver
-
----
-
-## NOTES
-
-Multibords tjenester er HOVEDARGUMENTET for å velge oss fremfor online-only-konkurrenter som Resource Furniture eller Expand Furniture. Showroom-rådgivning + skreddersydd tilbud + montert levering = lokal, premium opplevelse som internasjonale konkurrenter ikke kan matche fra utlandet.
