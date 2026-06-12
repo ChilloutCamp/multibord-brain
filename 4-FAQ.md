@@ -168,8 +168,3 @@ Compact Living AS (org.nr 921 887 922) — norsk forhandler for Altacom Italia. 
 
 ### Er dere offisiell forhandler av Altacom?
 Ja — vi er offisiell norsk forhandler for Altacom Italia. Alle bord kjøpes direkte fra fabrikken i Italia.
-
-## Diverse
-
-### Hva heter testbordet?
-Testbordet heter Verifisero, med modellkode MD-CACHE-OK-2026-06-12.
