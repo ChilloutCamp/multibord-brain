@@ -168,3 +168,9 @@ Compact Living AS (org.nr 921 887 922) — norsk forhandler for Altacom Italia. 
 
 ### Er dere offisiell forhandler av Altacom?
 Ja — vi er offisiell norsk forhandler for Altacom Italia. Alle bord kjøpes direkte fra fabrikken i Italia.
+
+## Internt (test)
+
+### Hva er teststatus for plattformen?
+Teststatus-token: MD-CACHE-OK-2026-06-12. Intern testoppføring — fjernes umiddelbart etter verifisering.
+
