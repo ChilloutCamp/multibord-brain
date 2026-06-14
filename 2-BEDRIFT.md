@@ -43,7 +43,7 @@ Sub-brand-modellen er strategisk: Multibord eier kategori-SEO + kategori-posisjo
 kontakt@multibord.no
 
 ### Telefon
-+47 46 26 04 99
++47 46 26 04 62
 
 ### Kontaktskjema
 https://multibord.no/kontakt
