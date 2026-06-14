@@ -30,15 +30,23 @@ Multibord er én ting: bord som er sofabord OG spisebord i én. Trinnløs gassl�
 
 ---
 
-## 2. Farger (palett)
+## 2. Farger og logo (palett)
 
-> **Implementerte verdier** — matcher `globals.css` (@theme brand-skala) og `tenant.brand_colors` på plattformen. Dette er kilden: endrer du her, speiler plattform + nettside. (Oppdatert 2026-06-14: rettet fra en foreslått sort-primær-palett som aldri ble implementert.)
+> Redigerbare merkevare-verdier — kilden til `tenant.brand_colors` + `logo_url` på plattformen og fargene på nettsiden. Endre HER (eller via «Endre selv» i plattformen), så speiler nettsiden innen ~30 sek. Matcher `globals.css` @theme brand-skala.
 
-- **Primary:** Beige/taupe #A68B65 (varm grunntone — hele brand-skalaen brand-50→950 bygger på denne)
-- **Secondary:** Nær-sort #1A1A1A (brødtekst, mørke seksjoner, primærknapper)
-- **Accent:** Kobber #B87333 (CTA, fokus-ring, aksenter — italiensk håndverk)
+**Rasjonale:** Beige/taupe grunntone (#A68B65 — hele brand-skalaen brand-50→950 bygger på denne), nær-sort tekst + mørke seksjoner + primærknapper (#1A1A1A), kobber-aksent for CTA/fokus-ring (#B87333). Logo-fila bruker offisiell Altacom-oransje (#E8A52F), separat fra UI-paletten. Uttrykk: italiensk håndverk, premium-uten-skryt.
 
-Logo-fil bruker offisiell Altacom-oransje (#E8A52F) — separat fra UI-paletten over.
+### primary_color
+#A68B65
+
+### secondary_color
+#1A1A1A
+
+### accent_color
+#B87333
+
+### logo_url
+https://www.multibord.no/images/logo2-transparent.png
 
 ### Bakgrunner
 - Hero: Sort/grafitt eller fullbleed video-loop
