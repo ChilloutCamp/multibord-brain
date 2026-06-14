@@ -186,3 +186,17 @@ For å sette tydelige grenser:
 | Telefon i åpningstidene | Direkte svar (Man-Fre 11-17, Lør 11-16) |
 | Reklamasjon-respons | Samme virkedag |
 | Leveringstid produkt | 6-10 uker fra bestilling |
+
+---
+
+## Tjenester (strukturert)
+
+> Strukturerte tjeneste-oppføringer redigert via plattformen. Dette er kilden
+> tjeneste-broen leser → tenants.services. Den rike prosaen over er AI-kontekst
+> og endres ikke herfra.
+
+### personlig-showroom-raadgivning
+- navn: Personlig showroom-rådgivning
+- kort_beskrivelse: 1-på-1 visning med en av våre produktrådgivere. Du tester alle 11 modeller fysisk, sammenligner mekanikker (bokfold vs ileggsplater), og får hjelp til å matche modell mot ditt rom og behov.
+- pris_fra: 
+
