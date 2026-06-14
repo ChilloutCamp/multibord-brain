@@ -200,3 +200,7 @@ For å sette tydelige grenser:
 - kort_beskrivelse: 1-på-1 visning med en av våre produktrådgivere. Du tester alle 11 modeller fysisk, sammenligner mekanikker (bokfold vs ileggsplater), og får hjelp til å matche modell mot ditt rom og behov.
 - pris_fra: 
 
+### skreddersydd-tilbudsprosess
+- navn: Skreddersydd tilbudsprosess
+- kort_beskrivelse: For hver bestilling lager vi et komplett tilbud i NOK inkl. mva med:
+- pris_fra: 
