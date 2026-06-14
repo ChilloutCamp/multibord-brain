@@ -204,3 +204,8 @@ For å sette tydelige grenser:
 - navn: Skreddersydd tilbudsprosess
 - kort_beskrivelse: For hver bestilling lager vi et komplett tilbud i NOK inkl. mva med:
 - pris_fra: 
+
+### materialvalg-veiledning
+- navn: Materialvalg-veiledning
+- kort_beskrivelse: Hjelp til å velge riktig finish-kombinasjon basert på:
+- pris_fra: 
