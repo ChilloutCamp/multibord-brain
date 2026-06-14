@@ -18,7 +18,7 @@ last_updated: 2026-06-03
 | # | Modell | Altacom-kode | Start-pris | Premium-pris | Spesialitet |
 |---|---|---|---|---|---|
 | 1 | **Amelie** | AT054 | 14 700 kr | 21 100 kr | Rimeligste ekte transformerbare — kompakt 60×93, dobler til 120 cm |
-| 2 | **Geniale** | AT037/104 | 15 500 kr | 17 300 kr | Ultralavt 11 cm — kan skyves under sofa/seng |
+| 2 | **Geniale** | AT037/104 | 13 000 kr | 17 300 kr | Ultralavt 11 cm — kan skyves under sofa/seng |
 | 3 | **Universe** | AT028 | 15 500 kr | 25 800 kr | Den tidløse allrounderen, passer overalt |
 | 4 | **Gingillo** | AT020 | 16 300 kr | 25 800 kr | Kompakt 93×68 — dobler i lengden til 186 cm |
 | 5 | **Bessy** | AT026 | 16 600 kr | 22 400 kr | Ekstremt lavt (16 cm) — forsvinner under sofaen |
