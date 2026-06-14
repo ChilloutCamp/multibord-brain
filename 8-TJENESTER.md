@@ -229,3 +229,8 @@ For å sette tydelige grenser:
 - navn: Transformerbare heve-senke bord
 - kort_beskrivelse: Patenterte bord som går fra stuebord til fullverdig spisebord på 10 sekunder. Trinnløs gassløft.
 - pris_fra: 
+
+### showroom-visning
+- navn: Showroom-visning
+- kort_beskrivelse: Test alle modeller hos Compact Living i Oslo før kjøp.
+- pris_fra: 
