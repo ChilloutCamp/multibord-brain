@@ -219,3 +219,8 @@ For å sette tydelige grenser:
 - navn: Ettersalg og garanti-håndtering
 - kort_beskrivelse: 
 - pris_fra: 
+
+### b2b-tjenester-airbnb-hosts-hoteller-eiendomsutviklere
+- navn: B2B-tjenester (Airbnb-hosts, hoteller, eiendomsutviklere)
+- kort_beskrivelse: Volum-segment som vokser. Egne tjenester for ordrer 2+ bord.
+- pris_fra: 
