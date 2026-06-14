@@ -224,3 +224,8 @@ For å sette tydelige grenser:
 - navn: B2B-tjenester (Airbnb-hosts, hoteller, eiendomsutviklere)
 - kort_beskrivelse: Volum-segment som vokser. Egne tjenester for ordrer 2+ bord.
 - pris_fra: 
+
+### transformerbare-heve-senke-bord
+- navn: Transformerbare heve-senke bord
+- kort_beskrivelse: Patenterte bord som går fra stuebord til fullverdig spisebord på 10 sekunder. Trinnløs gassløft.
+- pris_fra: 
