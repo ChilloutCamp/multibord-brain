@@ -2,7 +2,7 @@
 type: bedrift-data
 section: profil-og-merkevare
 tenant_slug: multibord
-last_updated: 2026-06-05
+last_updated: 2026-06-14
 ---
 
 # Profil og merkevare — Multibord
@@ -32,9 +32,13 @@ Multibord er én ting: bord som er sofabord OG spisebord i én. Trinnløs gassl�
 
 ## 2. Farger (palett)
 
-- **Primary:** Sort #1A1A1A (dyp grafitt — premium-vekt)
-- **Secondary:** Kobber #B87333 (varm aksent, italiensk håndverk)
-- **Accent:** Logo-oransje #E8A52F (Altacom Italia offisiell — CTA der det skal merkes)
+> **Implementerte verdier** — matcher `globals.css` (@theme brand-skala) og `tenant.brand_colors` på plattformen. Dette er kilden: endrer du her, speiler plattform + nettside. (Oppdatert 2026-06-14: rettet fra en foreslått sort-primær-palett som aldri ble implementert.)
+
+- **Primary:** Beige/taupe #A68B65 (varm grunntone — hele brand-skalaen brand-50→950 bygger på denne)
+- **Secondary:** Nær-sort #1A1A1A (brødtekst, mørke seksjoner, primærknapper)
+- **Accent:** Kobber #B87333 (CTA, fokus-ring, aksenter — italiensk håndverk)
+
+Logo-fil bruker offisiell Altacom-oransje (#E8A52F) — separat fra UI-paletten over.
 
 ### Bakgrunner
 - Hero: Sort/grafitt eller fullbleed video-loop
@@ -51,13 +55,16 @@ Multibord er én ting: bord som er sofabord OG spisebord i én. Trinnløs gassl�
 
 ## 3. Typografi
 
+> **Implementert:** nettsiden kjører Arial Nova Light / Arial (se `globals.css` @theme). Inter + Fraunces var opprinnelig foreslått, men ble aldri implementert — beholdt under som design-alternativ hvis fonten skal byttes senere.
+
 ### Brødtekst
-**Inter** (variable, vekt 400-600) — varm grotesk, god lesbarhet, gratis via Google Fonts.
+**Arial Nova Light** (fallback: Arial, system-ui, sans-serif) — ren, nøytral grotesk med god lesbarhet.
 
 ### Overskrifter
-**Fraunces** (display-serif, vekt 500-700) — italiensk-feeling display, gratis Google Fonts.
+**Arial Nova** (fallback: Arial, system-ui) — samme familie, tyngre vekt på overskrifter.
 
-Alternativer: Cormorant, Playfair Display (begge gratis Google).
+### Opprinnelig design-alternativ (ikke implementert)
+Inter (brødtekst) + Fraunces (display-serif overskrifter), evt. Cormorant / Playfair Display — alle gratis Google Fonts. Kan vurderes ved en framtidig redesign for et mer editorial italiensk uttrykk.
 
 ### Personlighet
 Editorial, varmt, italiensk, presist, premium.
@@ -79,7 +86,7 @@ Editorial, varmt, italiensk, presist, premium.
 Herovideo.mp4 finnes allerede i `/public/videos/`. Skal verifiseres at den viser transformasjon (sannsynligvis ja, basert på marketing-analyse mars 2026 som anbefalte dette).
 
 ### Sekundær signatur
-**Editorial italiensk magazine-typografi** som overlay (Fraunces display-serif H1/H2).
+**Editorial italiensk magazine-typografi** som overlay (display-serif H1/H2).
 
 ---
 
