@@ -234,3 +234,8 @@ For å sette tydelige grenser:
 - navn: Showroom-visning
 - kort_beskrivelse: Test alle modeller hos Compact Living i Oslo før kjøp.
 - pris_fra: 
+
+### hjemlevering-og-montering
+- navn: Hjemlevering og montering
+- kort_beskrivelse: Vi leverer og monterer bordet hjemme hos deg.
+- pris_fra: 
