@@ -197,7 +197,7 @@ For å sette tydelige grenser:
 
 ### personlig-showroom-raadgivning
 - navn: Personlig showroom-rådgivning
-- kort_beskrivelse: 1-på-1 visning med en av våre produktrådgivere. Du tester alle 11 modeller fysisk, sammenligner mekanikker (bokfold vs ileggsplater), og får hjelp til å matche modell mot ditt rom og behov.
+- kort_beskrivelse: visning med en av våre produktrådgivere.
 - pris_fra: 
 
 ### skreddersydd-tilbudsprosess
