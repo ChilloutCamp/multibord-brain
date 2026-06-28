@@ -211,9 +211,9 @@ For å sette tydelige grenser:
 - pris_fra: 
 
 ### montert-levering-door-to-door
-- navn: Montert levering (door-to-door)
+- navn: Montert levering (door-to-door) Hele Norge
 - kort_beskrivelse: Bordet leveres ferdig montert fra fabrikken i Italia til din adresse i Norge. Du trenger bare å pakke ut og plassere.
-- pris_fra: 990
+- pris_fra: 1000
 
 ### ettersalg-og-garanti-haandtering
 - navn: Ettersalg og garanti-håndtering
