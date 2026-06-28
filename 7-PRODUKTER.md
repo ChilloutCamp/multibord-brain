@@ -28,6 +28,7 @@ last_updated: 2026-06-03
 | 9 | **Helios** | AT040 | 27 700 kr | 50 300 kr | Eneste runde bordet (Ø105 → 165 cm) |
 | 10 | **Ares Fold** | AT002 | fra 29 700 kr | 48 100 kr | Statement-bord med patentert skulpturelt understell |
 | 11 | **Ciak** *(kampanje)* | — | **10 000 kr** (fra 16 000) | — | Kompakt 90×90, "8 igjen" |
+| 12 | **Tester platform** | — | 14 900 kr | — | — |
 
 ---
 
