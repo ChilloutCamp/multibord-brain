@@ -8,3 +8,7 @@ seo_description: "Smart hev senk bord som enkelt tilpasses din høyde og dine be
 ## Kort om Tester platform
 
 Tester og ser at dette er noe som fungerer, hev senk bord marius
+
+## Tilgjengelige valg
+bordplater: N20
+understell: M04
